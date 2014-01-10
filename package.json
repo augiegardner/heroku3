@@ -1,0 +1,25 @@
+{
+  "name": "heroku3",
+  "version": "0.0.0",
+  "description": "augie test 3",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/augiegardner/heroku3.git"
+  },
+  "keywords": [
+    "idk"
+  ],
+  "author": "augiegardner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/augiegardner/heroku3/issues"
+  },
+  "dependencies": {
+    "logfmt": "~0.18.1",
+    "express": "~3.4.7"
+  }
+}
